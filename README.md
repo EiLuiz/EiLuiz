@@ -1,4 +1,4 @@
-readme_content = """# Olá, eu sou o Luiz Carlos (EiLuiz) 👋
+
 
 Sou estudante de **Engenharia de Computação** na Universidade Federal do Vale do São Francisco (UNIVASF). Desenvolvo soluções com foco em automação, desenvolvimento de software, integração de sistemas e computação gráfica.
 
